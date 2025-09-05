@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Late Blight of Potato",
+    "symptoms": "Dark brown lesions on leaves and stems, white fungal growth under moist conditions.",
+    "management": "Use resistant varieties, fungicide sprays, crop rotation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/PotatoLateBlightSymptoms.jpg"
+  },
+  {
+    "name": "Rice Blast",
+    "symptoms": "Spindle-shaped lesions with gray centers and brown margins on rice leaves.",
+    "management": "Apply nitrogen judiciously, fungicide sprays, use resistant varieties.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Rice_blast_symptom.jpg"
+  },
+  {
+    "name": "Maize Stem Borer",
+    "symptoms": "Bore holes in stems, dead hearts, reduced plant vigor.",
+    "management": "Collect and destroy infected stalks, use biocontrol (Trichogramma), insecticides if severe.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Chilo_partellus_damage.jpg"
+  }
+]
